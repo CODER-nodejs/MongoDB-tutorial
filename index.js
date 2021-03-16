@@ -13,7 +13,7 @@ mongoose.connect(process.env.MONGODB_SRV, {
     useUnifiedTopology: true,
     useFindAndModify: false
 }).then(() =>{
-     console.log('Database connected to DBMeowla');    
+     console.log('Database connected :)');    
 }).catch((err) =>{
      console.log(err);    
 })
