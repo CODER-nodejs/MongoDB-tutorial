@@ -15,6 +15,7 @@ This is a repo wich helps you how to connect a database to a discord bot :)
 
 6.Now run ```node .``` on your Visual studio Code terminal
 
+**Reminder**:I recommend using MongoDB atlas also usage of Network Access firewall to your host and yourself
 # Depencies
 
 ```discord.js@latest```
