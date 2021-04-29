@@ -3,7 +3,7 @@ const client = new Discord.Client();
  //You can change prefix here
 const prefix = '-';
 const mongoose = require("mongoose");
- 
+require("dotenv").config();
 const fs = require('fs');
  
 client.commands = new Discord.Collection();
